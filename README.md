@@ -21,3 +21,9 @@ so end of the day added a profile image and setup basic file best practices now 
 Today I want to complete the header of the website I've done what I would consider the hard part which was all the tedious set ups and getting the fonts and creating the files. The goal now is to start creating a header to be proud of.
 
 so these last two days mustve been bad days for github because both days port 8000 stopped working so was forced to copy paste all code into adobe dreaweaver and use that to display a preview. Tried looking for a way around doing that but didnt get much luck sadly. adding committing and pushing now as its late.
+
+### day 3 of project building date 31/10/2021
+
+#### todays goal
+
+
