@@ -26,4 +26,6 @@ so these last two days mustve been bad days for github because both days port 80
 
 #### todays goal
 
+Today I want to complete the header and the footer and start creating the content inbetween.
+
 
