@@ -28,4 +28,12 @@ so these last two days mustve been bad days for github because both days port 80
 
 Today I want to complete the header and the footer and start creating the content inbetween.
 
+Success the stars must've aligned no problems with previews or systems today plain sailing all the way got lots done started by finishing the header added the footer and completed all links and finally almost finished the resume page flew through it all happy with todays progress. Only issue is it's 2am and I've got to be up for work at 7 i'll take it easy tomorrow...
 
+### day 4 of project buidling
+
+#### todays goal
+
+Today I plan to finish the resume page small achievable goal. Am a little tired from last nights late night coding session progress stops for noone they say...
+
+At this rate I'll be finished and moving onto my milestone project this week! only 30 days ahead of schedule..
