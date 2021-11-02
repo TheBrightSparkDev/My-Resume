@@ -37,3 +37,10 @@ Success the stars must've aligned no problems with previews or systems today pla
 Today I plan to finish the resume page small achievable goal. Am a little tired from last nights late night coding session progress stops for noone they say...
 
 At this rate I'll be finished and moving onto my milestone project this week! only 30 days ahead of schedule..
+
+Success once again! Completed the resume page so now only a few things remain before this project is completed and I can start on my milestone project.
+
+### day 5 of project buidling
+
+#### todays goal 
+
