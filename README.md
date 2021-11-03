@@ -44,3 +44,8 @@ Success once again! Completed the resume page so now only a few things remain be
 
 #### todays goal 
 
+Today my goal is to complete the website and finish up my section I will also start creating a plan for my milestone project which I have been very excited to do!
+
+Success the website is (99%) complete I plan on returning to it and editing it heavily to create a proper portfolio for myself in the future but for now I'm more than happy to just leave it to the side while I move onto my first milestone project got a baby daughter on the way so the goal is to finish my milestone before she arrives. 
+
+Just incase the team at code institute ever read this thank you for teaching me all this and walking me through this creation but I well and truly have my eyes set on blowing your minds with my milestone project so watch this space!!
