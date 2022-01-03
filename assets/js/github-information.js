@@ -60,9 +60,13 @@ $("#gh-user-data").html(
         $("#gh-user-data").html(userInformationHTML(userData));
         $("#gh-repo-data").html(repoInformationHTML(repoData));
       }, function(errorResponse) {
-          if (errorResponse === 404){
+          if (errorResponse.status === 404){
             $("#gh-user-data").html(
               `<h2>No info found for user ${username}</h2>`)
+          } else if (errorResponse.status === 403){
+            var resetTime =  new Date(errorResponse.getResponseHeader(`X-RateLimit-reset`)*1000);
+            $("#gh-user-data").html(
+            `<h4>Oops you can only search 60 times due to githubs API throttling please either wait an ${resetTime.toLocaleTimeString()} or visit <a href="https://github.com/">GitHub</a> to search for users there</h4>`);
           } else {console.log(errorResponse);
           $("#gh-user-data").html(
             `<h2>Error ${errorResponse.responseJSON.message}</h2>`);
