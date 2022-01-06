@@ -1,8 +1,9 @@
-function sendEmail(contactForm){
+console.log("loaded");
+function sendMail(contactForm){
     emailjs.send("service_vgfb6oi","Rosie",{
-        from_email: "contactForm.emailaddress.value",
-        from_name: "contactForm.name.value",
-        project_request: "contactForm.projectsummary.value",
+        from_email: contactForm.emailaddress.value,
+        from_name: contactForm.name.value,
+        project_request: contactForm.projectsummary.value,
         })
     .then(
         function(response){
